@@ -1,0 +1,35 @@
+﻿@page
+@model Frontend.Pages.CMunicipio.IndexModel
+@{
+    ViewData["Title"]= "Index Municipio";
+}
+
+<h2>Listado de Municipios</h2>
+
+<hr/>
+<p>
+    <a asp-page="Create" class="btn btn-success">Adicionar Municipio</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var mun in Model.municipios)
+        {
+            <tr>
+                <td>@mun.Id</td>
+                <td>@mun.Nombre</td>
+                <td>
+                    <a asp-page="Edit" class="btn btn-primary">Editar</a>
+                    <a asp-page="Details" class="btn btn-warning">Detalles</a>
+                    <a asp-page="Delete" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>            
+        }
+        
+    </tbody>
+</table>

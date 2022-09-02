@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RB3P0LDgpAHlRGJL6IiPEiVUB8EQMak7hkksFE38zrO58zOVSA3ij6NOXvCjM0pKK/AN5fd2xxheocZtqvLapQ==",
+  "success": true,
+  "projectFilePath": "C:\\Eventos\\Aplicacion\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jfmurillo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jfmurillo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jfmurillo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,136 @@
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Persistencia.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Persistencia.pdb
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csprojAssemblyReference.cache
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Eventos\Aplicacion\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csprojAssemblyReference.cache
+C:\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Eventos\Aplicacion\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache

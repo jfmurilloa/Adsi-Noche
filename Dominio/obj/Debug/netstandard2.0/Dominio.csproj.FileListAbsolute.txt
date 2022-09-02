@@ -1,0 +1,18 @@
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+D:\Universidad de caldas\misionTic\2022\Ciclo3\Grupo30\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Eventos\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Eventos\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Eventos\Aplicacion\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Eventos\Aplicacion\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
